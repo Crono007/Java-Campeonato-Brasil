@@ -1,0 +1,38 @@
+Objetivo: Este trabalho tem como propósito exercitar a construção de programas 
+orientados a objetos, especialmente quanto o uso de vetores de objetos.
+
+• Tema: Consiste em construir um conjunto de classes que permitam o 
+controle/atualização de uma Tabela de jogos de futebol como o Brasileirão.
+
+• Solução: Seu programa em Java deve prever as seguintes classes:
+
+o Pontuação: esta classe modelo deve ser a pedida no E6 (ver o enunciado no 
+moodle)
+
+o (2,0) TabelaDePontuação: esta classe modelo deve ser um vetor de objetos, ou 
+seja, um vetor de pontuações. Deve conter as operações básicas de vetores(cria 
+tabela, insere clube- que é uma linha da tabela, exclui clube, consulta/altera
+clube, exibe tabela, ordena por pontuação e outras que você julgar necessárias 
+para atualizar/manipular a tabela.
+
+o (2,0) Partida: esta classe modelo deve representar uma partida de um jogo de 
+futebol, incluindo, data, horário da partida, bem como os clubes e os escores 
+obtidos no jogo. 
+
+o (2,0) ListaDePartidas: esta classe modelo deve ser um vetor de partidas. Deve 
+conter as operações básicas de vetores (cria lista, insere partida, exclui partida, 
+altera/consulta partida, exibe lista, ordena data e outras que você julgar 
+necessárias para atualizar/manipular a lista.
+
+o (3,0) Interface: esta classe deve ser a da aplicação. É nessa classe que devem 
+estar as interações com o usuário. Deve prever um menu com as operações 
+mencionadas. A cada manipulação de uma partida no sistema, a tabela de 
+pontuação deve ser atualizada.
+
+o (1,0) Organização, boas práticas e documentação do código.
+
+• Checkpoints: Mostrar para professora, em aula:
+o 20/06: Classe Partida
+o 22/06: ListaDePartidas e Aplicação
+o 27/06: TabelaDePontução e Aplicação
+o 29/06: Entrega e Apresentação
